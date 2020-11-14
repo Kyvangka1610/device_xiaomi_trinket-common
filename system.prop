@@ -7,7 +7,6 @@ persist.bluetooth.bqr.min_interval_ms=500
 persist.vendor.bt.a2dp_offload_cap=sbc-aptx-aptxtws-aptxhd-aac
 persist.vendor.btstack.a2dp_offload_cap=sbc-aptx-aptxtws-aptxhd-aac-ldac
 persist.vendor.btstack.enable.splita2dp=false
-persist.vendor.service.bdroid.sibs=false
 vendor.bluetooth.soc=cherokee
 
 # Charger
